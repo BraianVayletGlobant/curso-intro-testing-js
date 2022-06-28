@@ -1,4 +1,4 @@
-# Curso
+# Curso de Introducción al Testing con JavaScript
 
 ## ¿Qué es el testing? [resumen]
 
