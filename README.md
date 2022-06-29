@@ -133,7 +133,7 @@ Verifican más el óptimo manejo de los recursos del software, no el cumplimient
 
 - **NOTA:** _Hay una nueva área de pruebas No Funcionales que se llama **Ingeniería del caos**, su pionero es Netflix. Consiste en desconectar servicios en producción, como por ejemplo, desconectar una BD para ver como reacciona el equipo y establecer soluciones. El software que utiliza Netflix para su ingeniería del caos se llama **Chaos Monkey**_
 
-## Metodologías
+## Metodologías [resumen]
 
 - **TDD (Test Driven Development)**: Desarrollo guiado por pruebas, donde primero se hacen las pruebas antes de escribir el código (primero los expects).
 
